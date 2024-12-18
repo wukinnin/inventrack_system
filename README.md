@@ -2,6 +2,8 @@
 
 Built using PHP and MySQL
 
+![preview](preview.gif)
+
 ## ERD
 
 ERD visually represents the database structure, including relationships and cardinalities.
