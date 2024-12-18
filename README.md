@@ -1,4 +1,4 @@
-# Inventory System
+# Inventrack System
 
 Built using PHP and MySQL
 
@@ -182,9 +182,9 @@ INSERT INTO transactions (item_id, transaction_type, quantity, date) VALUES
 5. Navigate to `C:/xampp/htdocs`
 6. Open a shell (e.g Powershell, bash) then run the script
 ```shell
-git clone https://github.com/wukinnin/inventory_system
-cd inventory_system
+git clone https://github.com/wukinnin/inventrack_system
+cd inventrack_system
 git checkout main
 composer require tecnickcom/tcpdf
 ```
-7. Open a browser to `localhost/inventory_system/index.php`
+7. Open a browser to `localhost/inventrack_system/index.php`
