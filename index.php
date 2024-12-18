@@ -50,7 +50,7 @@ $recent_transactions = $conn->query("
 <div class="container mt-4">
     <h1 class="mb-4">InvenTrack</h1>
     <p>An inventory management system that manages items for computers and electronics. 🚀</p>
-    <p><a href="https://www.github.com/wukinnin/inventory_system">Project on Github</a></p>
+    <p><a href="https://github.com/wukinnin/inventrack_system">Project on Github</a></p>
     <br>
     <h2 class="mb-4">Dashboard</h2>
 
